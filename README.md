@@ -1,2 +1,0 @@
-# SikuliXperiments
-... for experiments
