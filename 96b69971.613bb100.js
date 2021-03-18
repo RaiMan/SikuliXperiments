@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{90:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to the new webpage","permalink":"/SikuliXperiments/blog/welcome"}]}')}}]);
