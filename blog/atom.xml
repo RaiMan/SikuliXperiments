@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://raiman.github.io/SikuliXperiments/blog</id>
+    <title>SikuliX Blog</title>
+    <updated>2021-03-16T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://raiman.github.io/SikuliXperiments/blog"/>
+    <subtitle>SikuliX Blog</subtitle>
+    <icon>https://raiman.github.io/SikuliXperiments/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the new webpage]]></title>
+        <id>welcome</id>
+        <link href="https://raiman.github.io/SikuliXperiments/blog/welcome"/>
+        <updated>2021-03-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[First I want to express great thanks to Waleed Sadek, who made the basic suggestions]]></summary>
+    </entry>
+</feed>

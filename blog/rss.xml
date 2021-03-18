@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>SikuliX Blog</title>
+        <link>https://raiman.github.io/SikuliXperiments/blog</link>
+        <description>SikuliX Blog</description>
+        <lastBuildDate>Tue, 16 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome to the new webpage]]></title>
+            <link>https://raiman.github.io/SikuliXperiments/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Tue, 16 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[First I want to express great thanks to Waleed Sadek, who made the basic suggestions]]></description>
+        </item>
+    </channel>
+</rss>
